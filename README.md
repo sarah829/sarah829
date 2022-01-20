@@ -1,6 +1,6 @@
 ### Hello
 
-I'm Sarah
+I'm Sarah.
 
 - 📚 I am a sophomore in college studying computer science. 
 - 🔭 I’m currently working on a mathematical modeling project modeling blazars (a subset of active galactic nuclei) with Python
